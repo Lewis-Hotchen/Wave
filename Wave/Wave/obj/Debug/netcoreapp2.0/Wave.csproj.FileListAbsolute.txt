@@ -1,0 +1,11 @@
+C:\Users\LHotchen\source\repos\Wave\Wave\bin\Debug\netcoreapp2.0\Wave.deps.json
+C:\Users\LHotchen\source\repos\Wave\Wave\bin\Debug\netcoreapp2.0\Wave.runtimeconfig.json
+C:\Users\LHotchen\source\repos\Wave\Wave\bin\Debug\netcoreapp2.0\Wave.runtimeconfig.dev.json
+C:\Users\LHotchen\source\repos\Wave\Wave\bin\Debug\netcoreapp2.0\Wave.dll
+C:\Users\LHotchen\source\repos\Wave\Wave\bin\Debug\netcoreapp2.0\Wave.pdb
+C:\Users\LHotchen\source\repos\Wave\Wave\obj\Debug\netcoreapp2.0\Wave.csprojResolveAssemblyReference.cache
+C:\Users\LHotchen\source\repos\Wave\Wave\obj\Debug\netcoreapp2.0\Wave.csproj.CoreCompileInputs.cache
+C:\Users\LHotchen\source\repos\Wave\Wave\obj\Debug\netcoreapp2.0\Wave.AssemblyInfoInputs.cache
+C:\Users\LHotchen\source\repos\Wave\Wave\obj\Debug\netcoreapp2.0\Wave.AssemblyInfo.cs
+C:\Users\LHotchen\source\repos\Wave\Wave\obj\Debug\netcoreapp2.0\Wave.dll
+C:\Users\LHotchen\source\repos\Wave\Wave\obj\Debug\netcoreapp2.0\Wave.pdb

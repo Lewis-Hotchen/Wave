@@ -1,0 +1,11 @@
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\bin\Debug\netcoreapp2.0\bruteforcehelloworld.deps.json
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\bin\Debug\netcoreapp2.0\bruteforcehelloworld.runtimeconfig.json
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\bin\Debug\netcoreapp2.0\bruteforcehelloworld.runtimeconfig.dev.json
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\bin\Debug\netcoreapp2.0\bruteforcehelloworld.dll
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\bin\Debug\netcoreapp2.0\bruteforcehelloworld.pdb
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\obj\Debug\netcoreapp2.0\bruteforcehelloworld.csprojResolveAssemblyReference.cache
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\obj\Debug\netcoreapp2.0\bruteforcehelloworld.csproj.CoreCompileInputs.cache
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\obj\Debug\netcoreapp2.0\bruteforcehelloworld.AssemblyInfoInputs.cache
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\obj\Debug\netcoreapp2.0\bruteforcehelloworld.AssemblyInfo.cs
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\obj\Debug\netcoreapp2.0\bruteforcehelloworld.dll
+C:\Users\LHotchen\source\repos\Wave\bruteforcehelloworld\bruteforcehelloworld\obj\Debug\netcoreapp2.0\bruteforcehelloworld.pdb
